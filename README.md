@@ -1,4 +1,4 @@
-
+[preview](https://github.com/wevixgracz/Roblox_cache_extractor/blob/master/github/haker_gameplay.png)
 
 This thing extracts cache files from your computer to destination directory audio and images (ogg and png).
 
