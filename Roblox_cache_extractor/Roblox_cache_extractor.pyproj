@@ -50,6 +50,7 @@
     <Content Include="build\Roblox_cache_extractor\xref-Roblox_cache_extractor.html" />
     <Content Include="dist\Roblox_cache_extractor.exe" />
     <Content Include="github\haker_gameplay.png" />
+    <Content Include="icon.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
