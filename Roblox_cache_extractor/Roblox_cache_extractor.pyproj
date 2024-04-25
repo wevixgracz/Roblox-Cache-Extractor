@@ -24,9 +24,31 @@
     <Compile Include="Roblox_cache_extractor.py" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="build\" />
+    <Folder Include="build\Roblox_cache_extractor\" />
+    <Folder Include="build\Roblox_cache_extractor\localpycs\" />
+    <Folder Include="dist\" />
     <Folder Include="github\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="build\Roblox_cache_extractor\Analysis-00.toc" />
+    <Content Include="build\Roblox_cache_extractor\base_library.zip" />
+    <Content Include="build\Roblox_cache_extractor\EXE-00.toc" />
+    <Content Include="build\Roblox_cache_extractor\localpycs\pyimod01_archive.pyc" />
+    <Content Include="build\Roblox_cache_extractor\localpycs\pyimod02_importers.pyc" />
+    <Content Include="build\Roblox_cache_extractor\localpycs\pyimod03_ctypes.pyc" />
+    <Content Include="build\Roblox_cache_extractor\localpycs\pyimod04_pywin32.pyc" />
+    <Content Include="build\Roblox_cache_extractor\localpycs\struct.pyc" />
+    <Content Include="build\Roblox_cache_extractor\PKG-00.toc" />
+    <Content Include="build\Roblox_cache_extractor\PYZ-00.pyz" />
+    <Content Include="build\Roblox_cache_extractor\PYZ-00.toc" />
+    <Content Include="build\Roblox_cache_extractor\Roblox_cache_extractor.pkg" />
+    <Content Include="build\Roblox_cache_extractor\Tree-00.toc" />
+    <Content Include="build\Roblox_cache_extractor\Tree-01.toc" />
+    <Content Include="build\Roblox_cache_extractor\Tree-02.toc" />
+    <Content Include="build\Roblox_cache_extractor\warn-Roblox_cache_extractor.txt" />
+    <Content Include="build\Roblox_cache_extractor\xref-Roblox_cache_extractor.html" />
+    <Content Include="dist\Roblox_cache_extractor.exe" />
     <Content Include="github\haker_gameplay.png" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
