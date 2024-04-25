@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Roblox_cache_extractor", "Roblox_cache_extractor\Roblox_cache_extractor.pyproj", "{97A6F762-5F11-4F43-9D5D-926CF28609EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97A6F762-5F11-4F43-9D5D-926CF28609EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97A6F762-5F11-4F43-9D5D-926CF28609EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF2F2E12-D6B8-4F10-8E2B-D5D5285FA75D}
+	EndGlobalSection
+EndGlobal
