@@ -45,6 +45,8 @@ def browse_destination_dir():
 root = tk.Tk()
 root.title("Roblox Cache Extractor")
 
+root.tk_setPalette(background='#2B2B2B', foreground='white')
+
 source_dir_label = tk.Label(root, text="Source Directory:")
 source_dir_label.grid(row=0, column=0, padx=5, pady=5)
 source_dir_entry = tk.Entry(root, width=50)
